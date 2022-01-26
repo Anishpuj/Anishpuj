@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.emojisky.com%2Fdesc%2F241904&psig=AOvVaw08EQzEcWU7uNTi5LLdoN48&ust=1643276094937000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjk7daOz_UCFQAAAAAdAAAAABAe" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anish Puajri </h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
