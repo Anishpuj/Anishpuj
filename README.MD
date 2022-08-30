@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently student of  **[IIIT HYDERABAD](https://www.iiit.ac.in/)**
-- 😎 Here is my **[INSTAGRAM](https://instagram.com/ani.sh257?utm_medium=copy_link)**
+- 😎 Here is my **[INSTAGRAM](https://instagram.com/uh_neesh25?utm_medium=copy_link)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
