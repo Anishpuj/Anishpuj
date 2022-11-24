@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishpuj&label=Profile%20views&color=0e75b6&style=flat" alt="anishpuj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishpuj" alt="anishpuj" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/anishpuj" target="blank"><img src="https://img.shields.io/twitter/follow/anishpuj?logo=twitter&style=for-the-badge" alt="anishpuj" /></a> </p>
-
+<h1 align="right"><img src="https://i.pinimg.com/originals/1d/a1/5f/1da15faba08158465c7bb9dbe86b7a82.png" width="200"> <img src="https://rodrigovarejao.com/wp-content/uploads/2020/03/7206566fe5efcb58fc7a0979ed4b9d73-sticker.png" width="200"><img src="https://i.pinimg.com/originals/f7/42/a8/f742a8d91cb1bdb8d7f7177e613fdbca.png" width="200"><img src="https://i.pinimg.com/originals/b5/4c/e1/b54ce1bf5679515d1a062c85037eeb1c.png" width="200"><img src="https://stickerly.pstatic.net/sticker_pack/e9Rz6mM5kjpYZL8aEW9w/XP2B4N/2/0e2cfdd1-4f4b-4e78-a874-81d1afa8324b.png" width="200"></h1>
 - 🔭 I’m currently working on **NFT MARKETPLACE**
 
 - 🌱 I’m currently learning **REACTJs,BOOTSTRAP**
@@ -23,8 +24,8 @@
 
 - 📫 How to reach me **anishputtya46@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/anishpuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishpuj" height="30" width="40" /></a>
 <a href="https://fb.com/anishpujari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anishpujari" height="30" width="40" /></a>
 <a href="https://instagram.com/uh_neesh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uh_neesh25" height="30" width="40" /></a>
