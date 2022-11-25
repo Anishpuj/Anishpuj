@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/anishpuj" target="blank"><img src="https://img.shields.io/twitter/follow/anishpuj?logo=twitter&style=for-the-badge" alt="anishpuj" /></a> </p>
 <h1 align="right"><img src="https://i.pinimg.com/originals/1d/a1/5f/1da15faba08158465c7bb9dbe86b7a82.png" width="200"> <img src="https://rodrigovarejao.com/wp-content/uploads/2020/03/7206566fe5efcb58fc7a0979ed4b9d73-sticker.png" width="200"><img src="https://i.pinimg.com/originals/f7/42/a8/f742a8d91cb1bdb8d7f7177e613fdbca.png" width="200"><img src="https://i.pinimg.com/originals/b5/4c/e1/b54ce1bf5679515d1a062c85037eeb1c.png" width="200"></h1>
+
 - 🔭 I’m currently working on **NFT MARKETPLACE**
 
 - 🌱 I’m currently learning **REACTJs,BOOTSTRAP**
