@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **REACTJs,BOOTSTRAP**
 
-- 👯 I’m looking to collaborate on **FRONT-END OPEN PROJECTS**
+- 👯 I’m looking to collaborate on **FULL STACK OPEN SOURCE PROJECTS**
 
-- 🤝 I’m looking for help with **OPEN WITH ANYONE**
+- 🤝 I’m looking for **COLLABARAATIVE LEARNING **
 
 - 👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)
 
-- 💬 Ask me about **WEB DESIGNING,UI/UX,BLOCKCHAIN**
+- 💬 Ask me about **WEB DESIGNING,UI/UX,BLOCKCHAIN,FOREX**
 
 - 📫 How to reach me **anishputtya46@gmail.com**
 
@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://twitter.com/anishpuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishpuj" height="30" width="40" /></a>
 <a href="https://fb.com/anishpujari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anishpujari" height="30" width="40" /></a>
-<a href="https://instagram.com/uh_neesh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uh_neesh25" height="30" width="40" /></a>
+<a href="https://instagram.com/anishpujxri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishpujxri" height="30" width="40" /></a>
 <a href="https://discord.gg/sheesh#3276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sheesh#3276" height="30" width="40" /></a>
 </p>
 
