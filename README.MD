@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **FULL STACK OPEN SOURCE PROJECTS**
 
-- 🤝 I’m looking for **COLLABARAATIVE LEARNING **
+- 🤝 I’m looking for **COLLABARAATIVE LEARNING**
 
 - 👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)
 
