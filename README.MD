@@ -1,4 +1,4 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Anishpuj/Anishpuj/assets/98417394/23fb3e92-03f9-48a2-8852-dc6373969904)
+
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anish Pujari</h1>
