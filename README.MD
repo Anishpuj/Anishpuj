@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishpuj&show_icons=true&locale=en" alt="anishpuj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishpuj&" alt="anishpuj" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishpuj&" alt="anishpuj" /></p>
 
 
 [![@anishpuj's Holopin board](https://holopin.me/anishpuj)](https://holopin.io/@anishpuj)
