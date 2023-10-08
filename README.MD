@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/anishpuj" target="blank"><img src="https://img.shields.io/twitter/follow/anishpuj?logo=twitter&style=for-the-badge" alt="anishpuj" /></a> </p>
 
-![D3B63D2B-E766-4C57-9262-5775BADDE88D](https://github.com/Anishpuj/Anishpuj/assets/98417394/ea9fa4a7-174a-4164-9d41-d0b0826be347)
+![D3B63D2B-E766-4C57-9262-5775BADDE88D](https://github.com/Anishpuj/Anishpuj/assets/98417394/ea9fa4a7-174a-4164-9d41-d0b0826be347 width="800" height="200")
 
 
 
