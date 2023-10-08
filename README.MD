@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **WEB DESIGNING,UI/UX,BLOCKCHAIN,FOREX**
 
--📈 I am a Hyper Volatile trader in Forex Markets , with my own Trading firm **Coin's Grail Forex Hub**
+- 📈 I am a Hyper Volatile trader in Forex Markets , with my own Trading firm **Coin's Grail Forex Hub**
 
 - 📫 How to reach me **anishputtya46@gmail.com**
 
