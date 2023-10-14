@@ -4,7 +4,7 @@
 Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Bouncing%20Ball%20Light%20Skin%20Tone.png" alt="Person Bouncing Ball Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" />
 ========================================================================================================================================
 
-🌍 He\him | Passionate Frontend Dev | Designer | Discord Bot Creator | Uni student at Alliance School Of Engineering & Design | Entrepreneur | | Hyper volatile FX Trader| <br>
+🌍 He\him | Passionate Frontend Dev | Designer | Discord Bot Creator | Uni student at Alliance School Of Engineering & Design | Entrepreneur | | Hyper volatile FX Trader | <br>
 <br>
 🌱 I’m currently learning **FIGMA**<br>
 👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
