@@ -7,27 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishpuj&label=Profile%20views&color=0e75b6&style=flat" alt="anishpuj" /> </p>
 
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on **NFT MARKETPLACE**
-
 - 🌱 I’m currently learning **FIGMA**
 
-- 👯 I’m looking to collaborate on **FULL STACK OPEN SOURCE PROJECTS**
-
-- 🤝 I’m looking for **COLLABORATIVE LEARNING**
-
 - 👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)
-
-- 💬 Ask me about **WEB DESIGNING,UI/UX,BLOCKCHAIN,FOREX**
-
-- 📈 I am a Hyper Volatile trader in Forex Markets , with my own Trading firm **Coin's Grail Forex Hub**
 
 - 📫 How to reach me **anishputtya46@gmail.com**
 
