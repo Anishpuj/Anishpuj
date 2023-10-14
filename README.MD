@@ -11,7 +11,7 @@ Hi! My name is Anish Pujari 🚀
 <br/>
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,javascript,bootstrap)](https://skillicons.dev)
 <br/>
 
 
