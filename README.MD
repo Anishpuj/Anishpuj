@@ -6,8 +6,7 @@ Hi! My name is Anish Pujari 🚀
 
 🌍  I am a Front-End Developer based in Bangalore, India. <br>
 🌱 I’m currently learning **FIGMA**<br>
-👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)<br>
-👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a>
+👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
 📫  Reach me? **anishputtya46@gmail.com**
 <br/>
 ### Skills
