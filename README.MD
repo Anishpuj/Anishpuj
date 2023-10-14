@@ -5,6 +5,10 @@ Hi! My name is Anish Pujari 🚀
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Bangalore, India.
+🌱 I’m currently learning **FIGMA**
+👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)
+📫  Reach me? **anishputtya46@gmail.com**
+
 <br/>
 
 ### Skills
@@ -15,11 +19,6 @@ Hi! My name is Anish Pujari 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishpuj&label=Profile%20views&color=0e75b6&style=flat" alt="anishpuj" /> </p>
 
-- 🌱 I’m currently learning **FIGMA**
-
-- 👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)
-
-- 📫 How to reach me **anishputtya46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
