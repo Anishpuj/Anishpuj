@@ -8,9 +8,7 @@ Hi! My name is Anish Pujari 🚀
 🌱 I’m currently learning **FIGMA**<br>
 👨‍💻 All of my projects are available at [https://anishpujpersonalportfolio.netlify.app/](https://anishpujpersonalportfolio.netlify.app/)<br>
 📫  Reach me? **anishputtya46@gmail.com**
-
 <br/>
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
