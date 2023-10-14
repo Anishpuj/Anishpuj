@@ -1,7 +1,7 @@
 
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-Hi! My name is Tejas Banait 🚀
+Hi! My name is Anish Pujari 🚀
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Bangalore, India.
