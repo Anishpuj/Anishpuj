@@ -5,6 +5,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 ========================================================================================================================================
 
 🌍  He\him | Passionate Frontend Dev | Designer | Discord Bot Creator | Uni student at Alliance School Of Engineering & Design | Entrepreneur | Hyper volatile FX Trader| <br>
+<br>
 🌱 I’m currently learning **FIGMA**<br>
 👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
 📫  Reach me? **anishpujari25@gmail.com**
