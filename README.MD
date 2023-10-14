@@ -1,8 +1,16 @@
 
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Anish Pujari</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+Hi! My name is Tejas Banait 🚀
+========================================================================================================================================
+
+🌍  I am a Front-End Developer based in Bangalore, India.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishpuj&label=Profile%20views&color=0e75b6&style=flat" alt="anishpuj" /> </p>
