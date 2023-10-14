@@ -7,7 +7,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 🌍  I am a Front-End Developer based in Bangalore, India. <br>
 🌱 I’m currently learning **FIGMA**<br>
 👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
-📫  Reach me? **anishputtya46@gmail.com**
+📫  Reach me? **anishpujari25@gmail.com**
 <br/>
 ### Skills
 
