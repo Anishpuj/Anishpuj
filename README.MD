@@ -29,7 +29,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishpuj&show_icons=true&locale=en&layout=compact" alt="anishpuj width="150" height="200"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishpuj&" alt="anishpuj" width="150" height="200"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishpuj&" alt="anishpuj" width="500" height="200"/></p>
 
 [![@anishpuj's Holopin board](https://holopin.me/anishpuj)](https://holopin.io/@anishpuj)
 
