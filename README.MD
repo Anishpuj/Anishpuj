@@ -27,7 +27,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishpuj&show_icons=true&locale=en&layout=compact" alt="anishpuj width="150" height="200"/></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishpuj&" alt="anishpuj" width="400" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishpuj&show_icons=true&locale=en&layout=compact" alt="anishpuj width="150" height="200"/></p> 
 
 
 
