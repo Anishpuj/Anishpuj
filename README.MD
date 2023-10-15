@@ -37,4 +37,5 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 ![iegsfUIJ](https://github.com/Anishpuj/Anishpuj/assets/98417394/5a1b0f4b-d292-40f6-a328-de7ee44934fd)
 
 ![snake]( align = "center" https://github.com/Anishpuj/Anishpuj/assets/98417394/8573b34b-4017-475f-ba42-b4b6ec58327d)
+<p><img align="left" src="https://github.com/Anishpuj/Anishpuj/assets/98417394/8573b34b-4017-475f-ba42-b4b6ec58327d" alt="anishpuj width="600" height="200"/></p> 
 
