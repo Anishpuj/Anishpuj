@@ -36,6 +36,6 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 
 ![iegsfUIJ](https://github.com/Anishpuj/Anishpuj/assets/98417394/5a1b0f4b-d292-40f6-a328-de7ee44934fd)
 
-<iframe src="https://hackerrank-badge.herokuapp.com/Anishpuj?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+<a href="https://www.hackerrank.com/anishputtya46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anishputtya46" height="30" width="40" /></a>
 
 
