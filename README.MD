@@ -8,6 +8,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 <br>
 🌱 I’m currently learning **FIGMA**<br>
 👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
+👾 <a href="https://www.hackerrank.com/anishputtya46">My Hacker Rank</a> <br>
 📫  Reach me? **anishpujari25@gmail.com**
 <br/>
 ### Skills
@@ -36,6 +37,6 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 
 ![iegsfUIJ](https://github.com/Anishpuj/Anishpuj/assets/98417394/5a1b0f4b-d292-40f6-a328-de7ee44934fd)
 
-<a href="https://www.hackerrank.com/anishputtya46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anishputtya46" height="30" width="40" /></a>
+
 
 
