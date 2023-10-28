@@ -6,7 +6,7 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 
 🌍 He\him | Passionate Frontend Dev | Designer | Discord Bot Creator | Uni student at Alliance School Of Engineering & Design | Campus Ambassador for VIRAL FISSION | Entrepreneur | Hyper volatile FX Trader | Event Strategist | <br>
 <br>
-🌱 I’m currently learning **FIGMA**<br>
+🌱 I’m currently learning **FIGMA** , **WEBFLOW**<br>
 👨‍💻 <a href="https://anishpujpersonalportfolio.netlify.app/">Personal Portfolio</a> <br>
 👾 <a href="https://www.hackerrank.com/anishputtya46">My Hacker Rank</a> <br>
 📫  Reach me? **anishpujari25@gmail.com**
