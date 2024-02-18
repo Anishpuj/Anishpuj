@@ -1,6 +1,7 @@
 
+<img width="744" alt="Screenshot 2024-02-18 at 8 04 56 AM" src="https://github.com/Anishpuj/Anishpuj/assets/98417394/3a6cd57d-b7f0-4cff-a269-895c179b9a82">
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Anishpuj/Anishpuj/assets/98417394/c2f4dee2-9c87-4256-99f2-088f2e398c08)
+
 Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Bouncing%20Ball%20Light%20Skin%20Tone.png" alt="Person Bouncing Ball Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" />
 ========================================================================================================================================
 
