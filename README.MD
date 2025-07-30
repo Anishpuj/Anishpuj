@@ -1,4 +1,4 @@
-name: Anish Pujari
+-name: Anish Pujari
 
 about:
     role        : CIS Intern @ Wipro
