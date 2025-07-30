@@ -9,7 +9,7 @@
 🔬 Passionate about building and deploying real-world machine learning models.  
 📚 Constantly exploring the frontiers of artificial intelligence.
 
-
+Tech Stack : [ Python ]
 ## 🛠 Tech Stack
 
 **Languages**  
