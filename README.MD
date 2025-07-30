@@ -1,9 +1,10 @@
--name: Anish Pujari
+```yaml
+name: Anish Pujari
 
 about:
-    role        : CIS Intern @ Wipro
+    role          : CIS Intern @ Wipro
     specialization: AI/ML Engineer
-    education   : B.Tech CSE (AI/ML) @ Alliance University
+    education     : B.Tech CSE (AI/ML) @ Alliance University
 
 contact: 
     linkedin : /in/anish-pujari
