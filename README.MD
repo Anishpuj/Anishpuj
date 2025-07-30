@@ -3,13 +3,12 @@
 ### CIS Intern @ Wipro  
 ### AI/ML Engineer | CSE - AI/ML, Alliance University
 
----
+
 
 🧠 I design and develop intelligent systems with a focus on practical, scalable AI solutions.  
 🔬 Passionate about building and deploying real-world machine learning models.  
 📚 Constantly exploring the frontiers of artificial intelligence.
 
----
 
 ## 🛠 Tech Stack
 
