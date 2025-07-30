@@ -1,43 +1,45 @@
-# Anish Pujari
+name: Anish Pujari
 
-### CIS Intern @ Wipro  
-### AI/ML Engineer | CSE - AI/ML, Alliance University
+about:
+    role        : CIS Intern @ Wipro
+    specialization: AI/ML Engineer
+    education   : B.Tech CSE (AI/ML) @ Alliance University
 
+contact: 
+    linkedin : /in/anish-pujari
+    github   : anishpujari
 
+dev-env: 
+    editor   : VS Code
+    terminal : Bash / Windows Terminal
 
-🧠 I design and develop intelligent systems with a focus on practical, scalable AI solutions.  
-🔬 Passionate about building and deploying real-world machine learning models.  
-📚 Constantly exploring the frontiers of artificial intelligence.
+tech-stack: 
+    languages:
+        - python
+        - sql
+        - javascript
 
-Tech Stack : [ Python ]
-## 🛠 Tech Stack
+    ai-ml:
+        frameworks:
+            - pytorch
+            - tensorflow
+            - scikit-learn
+            - huggingface
+            - opencv
+        tools:
+            - mlflow
+            - wandb
+            - docker
+            - fastapi
+            - streamlit
 
-**Languages**  
-Python • SQL • JavaScript
+    data:
+        - pandas
+        - numpy
+        - matplotlib
+        - seaborn
+        - plotly
 
-**AI/ML Frameworks**  
-PyTorch • TensorFlow • scikit-learn • Hugging Face Transformers • OpenCV
-
-**Data & Visualization**  
-Pandas • NumPy • Matplotlib • Seaborn • Plotly
-
-**MLOps & Dev Tools**  
-MLflow • Weights & Biases • Docker • FastAPI • GitHub Actions • Streamlit
-
----
-
-## 📫 Connect with Me
-
-**LinkedIn**: [Anish Pujari](https://www.linkedin.com/in/anish-pujari/)
-
----
-
-## ⚡ About Me
-
-- 🏋️ Gym enthusiast — I lift heavy circles  
-- 🎮 FPS gamer in my off-hours  
-- 🧑‍💻 Always open to learning, building, and collaborating
-
----
-
-> _“The best way to predict the future is to invent it.” — Alan Kay_
+fun:
+    gym    : 'I lift heavy circles'
+    gaming : 'FPS gamer'
