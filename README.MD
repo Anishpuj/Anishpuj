@@ -29,14 +29,4 @@ Hi! My name is Anish Pujari <img src="https://raw.githubusercontent.com/Tarikul-
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishpuj&show_icons=true&locale=en&layout=compact" alt="anishpuj width="600" height="200"/></p> 
 
-
-
-[![@anishpuj's Holopin board](https://holopin.me/anishpuj)](https://holopin.io/@anishpuj)
-
-<img width="849" alt="Screenshot 2024-02-18 at 7 32 35 AM" src="https://github.com/Anishpuj/Anishpuj/assets/98417394/2f6d0880-6976-4cac-a32e-7fc6d5ec0637">
-
-
-
-![iegsfUIJ](https://github.com/Anishpuj/Anishpuj/assets/98417394/5a1b0f4b-d292-40f6-a328-de7ee44934fd)
