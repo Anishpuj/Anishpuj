@@ -1,7 +1,7 @@
-# Anish Pujari
+# 🧱 🅐🅝🅘🅢🅗 🅟🅤🅙🅐🅡🅘
 
-### CIS Intern @ Wipro  
-### AI/ML Engineer | CSE - AI/ML, Alliance University
+### 🅒🅘🅢 🅘🅝🅣🅔🅡🅝 @ 🅦🅘🅟🅡🅞  
+### 🅐🅘⁄🅜🅛 🅔🅝🅖🅘🅝🅔🅔🅡 | 🅒🅢🅔 - 🅐🅘⁄🅜🅛, 🅐🅛🅛🅘🅐🅝🅒🅔 🅤🅝🅘🅥🅔🅡🅢🅘🅣🅨
 
 ---
 
@@ -11,29 +11,29 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⌨️ 🅣🅔🅒🅗 🅢🅣🅐🅒🅚
 
-**Languages**  
+**🅛🅐🅝🅖🅤🅐🅖🅔🅢**  
 Python • SQL • JavaScript
 
-**AI/ML Frameworks**  
+**🅐🅘⁄🅜🅛 🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢**  
 PyTorch • TensorFlow • scikit-learn • Hugging Face Transformers • OpenCV
 
-**Data & Visualization**  
+**🅓🅐🅣🅐 & 🅥🅘🅢🅤🅐🅛🅘🅩🅐🅣🅘🅞🅝**  
 Pandas • NumPy • Matplotlib • Seaborn • Plotly
 
-**MLOps & Dev Tools**  
+**🅜🅛🅞🅟🅢 & 🅓🅔🅥 🅣🅞🅞🅛🅢**  
 MLflow • Weights & Biases • Docker • FastAPI • GitHub Actions • Streamlit
 
 ---
 
-## 📫 Connect with Me
+## 📫 🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
 
-**LinkedIn**: [Anish Pujari](https://www.linkedin.com/in/anish-pujari/)
+🔗 [LinkedIn – Anish Pujari](https://www.linkedin.com/in/anish-pujari/)
 
 ---
 
-## ⚡ About Me
+## ⚡ 🅐🅑🅞🅤🅣 🅜🅔
 
 - 🏋️ Gym enthusiast — I lift heavy circles  
 - 🎮 FPS gamer in my off-hours  
