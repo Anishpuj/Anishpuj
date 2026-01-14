@@ -3,7 +3,7 @@
 name: Anish Pujari
 
 about:
-    role          : CIS Intern @ Wipro Ltd.
+    role          : Ai Engineer.
     specialization: AI/ML Engineer
     education     : B.Tech CSE (AI/ML) @ Alliance University
 
