@@ -6,6 +6,7 @@ about:
     role          : Ai Engineer.
     specialization: AI/ML Engineer
     education     : B.Tech CSE (AI/ML) @ Alliance University
+    Distance Learning : IIIT Bangalore (Machine Learning Engineer)
 
 contact: 
     linkedin : /in/anish-pujari
