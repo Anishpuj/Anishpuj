@@ -3,9 +3,9 @@
 name: Anish Pujari
 
 about:
-    role          : Ai Engineer.
-    specialization: AI/ML Engineer
-    education     : B.Tech CSE (AI/ML) @ Alliance University
+    role              : Ai Engineer.
+    specialization    : AI/ML Engineer
+    education         : B.Tech CSE (AI/ML) @ Alliance University
     Distance Learning : IIIT Bangalore (Machine Learning Engineer)
 
 contact: 
@@ -17,10 +17,11 @@ dev-env:
     terminal : Bash / Windows Terminal
 
 tech-stack: 
-    languages:
-        - python
-        - sql
-        - javascript
+    languages:                    Framework:
+        - Html                       - React
+        - CSS                        - Next.Js                  
+        - Javascript                 - Tailwind CSS
+        - Python
 
     ai-ml:
         frameworks:
